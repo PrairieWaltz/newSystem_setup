@@ -1,4 +1,4 @@
-# Configuration Reset Script
+# Configuration Setup Script
 
 Do you spin up a lot of Linux machines for testing but want a quick way to reset some Bash, ZSH, and Tmux configurations?
 
