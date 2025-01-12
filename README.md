@@ -37,7 +37,7 @@ Follow these steps to use the script:
 
 1. **Open the configuration files (e.g., .bashrc, .zshrc, .tmux.conf) in the confVault directory using your preferred text editor**:
    ```bash
-   nano/vim/mousepad.bashrc
+   nano/vim/mousepad .bashrc
 2. **Make any changes you like to customize the setup**
 3. **Save the files and re-run the script if needed**:
    ```bash
